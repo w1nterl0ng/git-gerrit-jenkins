@@ -2,3 +2,4 @@ testing
 line 2
 line 3
 Bar Line
+Foo Line
